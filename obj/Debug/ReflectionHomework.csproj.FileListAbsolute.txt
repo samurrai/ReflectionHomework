@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\ReflectionHomework\ReflectionHomework\bin\Debug\ReflectionHomework.exe.config
+C:\Users\User\source\repos\ReflectionHomework\ReflectionHomework\bin\Debug\ReflectionHomework.exe
+C:\Users\User\source\repos\ReflectionHomework\ReflectionHomework\bin\Debug\ReflectionHomework.pdb
+C:\Users\User\source\repos\ReflectionHomework\ReflectionHomework\obj\Debug\ReflectionHomework.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ReflectionHomework\ReflectionHomework\obj\Debug\ReflectionHomework.exe
+C:\Users\User\source\repos\ReflectionHomework\ReflectionHomework\obj\Debug\ReflectionHomework.pdb
